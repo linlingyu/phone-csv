@@ -1,0 +1,12 @@
+{
+    "name": "data-center",
+    "main": "index.html",
+    "window": {
+        "toolbar": false,
+        "width": 320,
+        "height": 240
+    },
+    "dependencies": {
+        "iconv-lite": "*"
+    }
+}

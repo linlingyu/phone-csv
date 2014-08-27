@@ -1,0 +1,16 @@
+h1 {text-align: center;}
+.myform {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-box-flex: 1;
+    -webkit-box-align: center;
+}
+.myform > input {
+    display: block;
+    margin: 10px;
+}
+.form-group > input {text-align: center;}
+.myform > input.file {
+    padding: 5px;
+    border: gray solid 1px;
+}
